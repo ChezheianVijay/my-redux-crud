@@ -1,3 +1,49 @@
+CRUD App with JSON & Redux - Made with ❤️‍🔥 by Loki
+
+Project Description =>
+
+Technology Stack:
+
+React JS: A JavaScript library for building user interfaces.
+Bootstrap: A front-end framework for responsive design.
+React Router (HashRouter): Used for client-side routing to navigate between different pages.
+React Redux: A state management library that integrates Redux with React for managing application state.
+
+Pages:
+
+Home Page: The landing page of the app, typically providing an overview or navigation options.
+Create Page: A page that allows users to create new items or entries.
+Update Page: A page that enables users to update or edit existing items or entries.
+
+Purpose:
+
+To understand and implement state management in a React application using Redux.
+To learn how to structure a basic multi-page application with React Router.
+To practice integrating UI components using Bootstrap for styling.
+
+Advantages of Using Redux in React JS
+
+Centralized State Management:
+Redux provides a single source of truth for the application's state, making it easier to manage and debug.
+
+Predictable State Changes:
+By using actions and reducers, Redux ensures that state changes are predictable and transparent, leading to more maintainable code.
+
+Ease of Debugging:
+Redux DevTools provide time-travel debugging, allowing developers to inspect changes to the state over time, making it easier to identify issues.
+
+Consistency Across Components:
+Redux allows different components to access the same piece of state, ensuring consistency throughout the application.
+
+Enhanced Performance:
+By managing the state in a predictable way, Redux can optimize rendering and reduce unnecessary updates, improving the overall performance of the application.
+
+Flexibility with Middleware:
+Redux supports middleware, enabling powerful capabilities like asynchronous actions, logging, error handling, and more.
+
+Scalable Architecture:
+Redux’s architecture supports large-scale applications by making it easy to extend and maintain as the application grows.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
